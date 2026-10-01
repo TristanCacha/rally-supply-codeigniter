@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 # Rally Supply POS foundations
 
 A CodeIgniter 4 starter for a pickleball shop. It demonstrates routing, controllers, views, shared navigation, an in-memory gear catalog, and temporary account lists. Catalog, customer, and staff data are stored as readable PHP arrays; the project has no database or checkout backend.
-
-## Requirements
-
-- PHP 8.2 or newer with the `intl` and `mbstring` extensions enabled
-- Composer 2.0.14 or newer
 
 ## Run locally on Windows
 
