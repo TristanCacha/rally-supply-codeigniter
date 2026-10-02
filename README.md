@@ -32,12 +32,5 @@ Routes are declared in `app/Config/Routes.php`. Each route points to a controlle
 
 This assessment version intentionally uses static arrays and does not connect to a database. The displayed prices are sample values; there is no payment or checkout flow. Database models, migrations, and an SQL export belong to a later data-layer version.
 
-## Submission status
-
-- GitHub repository: intentionally left for the student to create and link later.
-- Hosted version: no public deployment has been configured. Use the local preview at <http://localhost:8081/> while developing; a public hosting target and its deployment setup are still needed for a hosted link.
-- Database export: not applicable to this static-array starter. No database is used.
-=======
 # rally-supply-codeigniter
-Rally Supply pickleball store project.
->>>>>>> f6bbc845fba8ce94fa1b4cae2ed2a9bee8b8b26d
+Rally Supply pickleball store project
